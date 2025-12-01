@@ -1,11 +1,11 @@
-# STIntg
+# STUltra
 
-<!-- ![STIntg_Overview](https://github.com/zhoux85/STAligner/assets/31464727/1358f6b0-75ed-4bdd-9d0b-257788dff73a) -->
+<!-- ![STUltra_Overview](https://github.com/zhoux85/STAligner/assets/31464727/1358f6b0-75ed-4bdd-9d0b-257788dff73a) -->
 
 
 ## Overview
 
-STIntg is designed for alignment and integration of spatially resolved transcriptomics data.
+STUltra is designed for alignment and integration of spatially resolved transcriptomics data.
 
 
 
@@ -13,18 +13,18 @@ STIntg is designed for alignment and integration of spatially resolved transcrip
 First clone the repository. 
 
 ```
-git clone https://github.com/ZZhangsm/STIntg.git
-cd STIntg-main
+git clone https://github.com/ZZhangsm/STUltra.git
+cd STUltra-main
 ```
 
-It's recommended to create a separate conda environment for running STIntg:
+It's recommended to create a separate conda environment for running STUltra:
 
 ```
-#create an environment called STIntg
-conda create -n env_STIntg python=3.8
+#create an environment called STUltra
+conda create -n env_STUltra python=3.8
 
 #activate your environment
-conda activate env_STIntg
+conda activate env_STUltra
 ```
 
 Install all the required packages. 
@@ -39,7 +39,7 @@ The use of the mclust algorithm requires the rpy2 package (Python) and the mclus
 
 The torch-geometric library is also required, please see the installation steps in https://github.com/pyg-team/pytorch_geometric#installation
 
-Install STIntg.
+Install STUltra.
 
 ```
 python setup.py build
@@ -50,7 +50,7 @@ python setup.py install
 
 <!-- ## Tutorials
 
-Three step-by-step tutorials are included in the `Tutorial` folder and https://staligner.readthedocs.io/en/latest/ to show how to use STIntg. 
+Three step-by-step tutorials are included in the `Tutorial` folder and https://staligner.readthedocs.io/en/latest/ to show how to use STUltra. 
 
 
 - Tutorial 1: Integrating 8 mouse embryo slices sampled at the time stages of E9.5-E16.5 (Stereo-seq)

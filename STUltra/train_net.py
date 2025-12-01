@@ -50,7 +50,7 @@ def train(
         adata,
         hidden_dims=[512, 30], lr=0.001, gradient_clipping=5., weight_decay=0.0001, 
         pretrain_epochs=500, n_epochs=1000, device='cpu', 
-        key_added='STIntg', save_recon=False, 
+        key_added='STUltra', save_recon=False, 
         random_seed=666, 
         num_batch=2, batch_data=False, spatial_net_args={},  
         iter_comb=None, knn_neigh=100, alpha=0.2, 
@@ -158,7 +158,7 @@ def train(
             optimizer.step()
             pbar.set_postfix({'loss': f'{loss.item():.3f}'})
 
-    print('Integrate Multi-slice data with STIntg...')
+    print('Integrate Multi-slice data with contrastive learning...')
     pbar = tqdm(range(pretrain_epochs, n_epochs))
     for epoch in pbar:
         if batch_data:
