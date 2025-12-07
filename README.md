@@ -1,12 +1,11 @@
 # STUltra
 
-<!-- ![STUltra_Overview](https://github.com/zhoux85/STAligner/assets/31464727/1358f6b0-75ed-4bdd-9d0b-257788dff73a) -->
+![STUltra_Overview](https://github.com/ZZhangsm/STUltra/blob/main/overview.png)
 
 
 ## Overview
 
-STUltra is designed for alignment and integration of spatially resolved transcriptomics data.
-
+We introduce STUltra, a scalable and accurate framework for integrating subcellular-level spatial omics data across spatial, temporal, and biomedical dimensions.
 
 
 
