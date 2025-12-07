@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![STUltra_Overview](https://raw.githubusercontent.com/ZZhangsm/STUltra/main/overview.png)
 
 # **STUltra: scalable and accurate integration for subcellular-level spatial omics data**
 
@@ -29,6 +28,8 @@
 ---
 
 ## 🎯 Overview
+
+![STUltra_Overview](https://raw.githubusercontent.com/ZZhangsm/STUltra/main/overview.png)
 
 Subcellular-level spatial transcriptomics data contain unprecedented contexts to uncover finer cellular clusters and their interactions. However, integrative analysis at subcellular resolution faces many challenges due to its ultra-large volume, ultra-high sparsity, and severe susceptibility to technical conditions and batch effects.
 
