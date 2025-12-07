@@ -1,6 +1,6 @@
 # STUltra
 
-![STUltra_Overview](https://github.com/ZZhangsm/STUltra/blob/main/overview.png)
+![STUltra_Overview](https://github.com/ZZhangsm/STUltra/blob/main/overview.jpeg)
 
 
 ## Overview
