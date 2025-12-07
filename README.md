@@ -29,7 +29,7 @@
 
 ## 🎯 Overview
 
-![STUltra_Overview](https://github.com/ZZhangsm/STUltra/blob/main/overview.png)
+![STUltra_Overview](https://github.com/ZZhangsm/STUltra/blob/main/overview.jpeg)
 
 Subcellular-level spatial transcriptomics data contain unprecedented contexts to uncover finer cellular clusters and their interactions. However, integrative analysis at subcellular resolution faces many challenges due to its ultra-large volume, ultra-high sparsity, and severe susceptibility to technical conditions and batch effects.
 
