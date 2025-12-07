@@ -9,6 +9,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/ZZhangsm/STUltra)
+[![Downloads](https://img.shields.io/badge/Downloads-pypi-orange.svg)](https://pypi.org/project/STUltra/)
+<!-- [![DOI](https://img.shields.io/badge/DOI-Coming%20Soon-yellow.svg)](https://github.com/ZZhangsm/STUltra) -->
 
 </div>
 
@@ -37,7 +39,7 @@ We introduce **STUltra**, a scalable and accurate framework for integrating subc
 - 🔬 **Subcellular Resolution**: Handles ultra-large volume and ultra-high sparsity data
 - 🚀 **Scalable**: Processes datasets containing over 1,000,000 cells efficiently
 - 🎯 **Accurate**: Outperforms existing tools in both accuracy and efficiency
-- 🔄 **Multi-platform Support**: Compatible with Visium HD, Xenium, and Stereo-seq
+- 🔄 **Multi-platform Support**: Compatible with Visium HD, Xenium, Stereo-seq and other subcellular platforms 
 - 📊 **Batch Correction**: Robust batch-effect correction across spatial, temporal, and biomedical dimensions
 
 ---
