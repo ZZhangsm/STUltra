@@ -117,5 +117,13 @@ If you have any questions, please feel free to contact us:
 
 📧 **Email**: [sm.zhang@smail.nju.edu.cn](mailto:sm.zhang@smail.nju.edu.cn)
 
+## License
+
+STUltra is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+We thank the developers of [STAligner](https://github.com/zhoux85/STAligner) and [STAGATE](https://github.com/RucDongLab/STAGATE) for making their code publicly available. We acknowledge their contributions, which have been valuable to the development of STUltra.
+
 ---
 
