@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# inputs and gsMap resources are not part of this folder
+*.h5ad
+*.sumstats.gz
+*.vcf
+*.vcf.gz
+*.bed
+*.bim
+*.fam
+
+logs/
+data/
+results/
