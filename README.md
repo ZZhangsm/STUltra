@@ -33,7 +33,7 @@
 
 High-resolution spatial transcriptomics (ST) generates large-scale datasets across multiple tissue sections, developmental stages, and disease conditions, making integration challenging due to biological heterogeneity and batch effects.
 
-**STUltra** is a scalable hypergraph framework for multi-sample ST integration, spatial domain detection, and GWAS-based trait mapping. By combining interval-sampled hypergraphs, robust graph representation learning, and contrastive learning, STUltra learns batch-corrected spatial embeddings that enable accurate domain identification and disease trait mapping across integrated tissue landscapes.
+**STUltra** is a scalablegraph framework for multi-sample ST integration, spatial domain detection, and GWAS-based trait mapping. By combining interval-sampled graphs, robust representation learning, and contrastive learning, STUltra learns batch-corrected spatial embeddings that enable accurate domain identification and disease trait mapping across integrated tissue landscapes.
 
 ### ✨ Key Features
 
